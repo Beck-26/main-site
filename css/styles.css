@@ -522,7 +522,7 @@ input[type='checkbox'] {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
 	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://scontent.flun2-1.fna.fbcdn.net/v/t39.30808-6/395497595_824169639448105_6598217812584520508_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHlrfXomKK6AbBKdXTi2agf8tDc-mtjyvDy0Nz6a2PK8HB-EfgoqKuJeypcKBTxfGohm4ivTz8RsJDCWhMjpuQq&_nc_ohc=DrvIcv83Q6cQ7kNvgHcaQFR&_nc_zt=23&_nc_ht=scontent.flun2-1.fna&_nc_gid=A2HVnxvFeahU37KG6pg-MjF&oh=00_AYC_rGpZD0ZQq7Rl4n2nDs3zOVWDoraJSUCsgXWJeTnvLQ&oe=66E65A94') center center no-repeat;
-	background-size: cover;
+	background-size: auto;
 	text-align: center;
 }
 
