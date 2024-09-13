@@ -521,12 +521,12 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://i.pinimg.com/736x/9d/2e/4c/9d2e4c2b82b9b68623cad8bd13d663f7.jpg') center center no-repeat;
-	background-size: auto;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://i.pinimg.com/736x/d5/eb/58/d5eb58399f92f8677d59185775c548be.jpg') center center no-repeat;
+	background-size: auto;d663f7.jpg
 	text-align: center;
 }
 
-.header .h1-large {
+.h1-large {
 	margin-bottom: 1.75rem;
 	color: #818181;
 }
